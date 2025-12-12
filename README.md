@@ -22,6 +22,18 @@ Um puzzle casual mobile onde jogadores tecem laços coloridos em labirintos gira
 4. Testes e Iteração (Semanas 11-12).
 5. Lançamento (Semanas 13+).
 
+## Mecânicas Iniciais (Riley & Taylor)
+- Core Loop: Toque para girar vortex, arraste bonds coloridos para conectar nós e abrir portais.
+- Social: Eco global anônimo via Firebase – bônus karma se bond ajudar outros (ex: +pontos por região).
+- UX Fluxo: Onboarding (20s): Tela vazia + primeiro bond. Níveis 1-5: Grids simples 5x5.
+
+## Assets Iniciais (Casey & Lee)
+- Visual: Bonds como círculos pastéis pulsantes (free shapes no Unity).
+- Áudio: Whoosh para giros, ding para conexões (freesound.org).
+
+## Marketing Inicial (Mia)
+- ASO: Título "Vortex Bonds: Connect Worlds". Palavras-chave: puzzle relax, social connect, labyrinth game.
+
 ## Próximos Passos
 - Baixar Unity.
 - Esboçar wireframes.
